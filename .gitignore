@@ -1,0 +1,26 @@
+##############################
+## C#
+##############################
+
+/build/
+*.suo
+<<<<<<< HEAD
+.user
+_ReSharper./
+=======
+*.user
+_ReSharper.*/
+>>>>>>> d4194f3abc44cfcab7c85c2baf1ece351d766c4e
+*.sdf
+bin/
+obj/
+Debug/
+Release/
+*.opensdf
+*.tlog
+*.log
+TestResult.xml
+*.VisualState.xml
+Version.cs
+Version.h
+Version.cpp
